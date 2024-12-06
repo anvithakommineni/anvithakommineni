@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Anvitha Kommineni
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Senior+Data+Engineer;Cloud+Architecture+Specialist;Big+Data+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Data+Engineer;Cloud+Architecture+Specialist;Big+Data+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me 
