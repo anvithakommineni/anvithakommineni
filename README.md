@@ -80,11 +80,6 @@ Data Engineer
 - Reduced manual processing by 25 hours monthly
 - Improved data accuracy by 40%
 
-## 📈 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anvithakommineni&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvithakommineni&layout=compact&theme=radical"/>
-</div>
 
 ## 🎓 Education
 - Master of Science in Computer Science, Wichita State University (2024)
