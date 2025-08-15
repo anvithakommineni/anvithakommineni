@@ -67,7 +67,7 @@ End-to-end real-time analytics solution for GitHub events.
 
 ## 💼 Professional Experience
 
-### American IT Group (Jun 2024 - Present)
+### Navasal Inc (Jun 2024 - Present)
 Data Engineer
 - Improved data availability by 40%
 - Reduced processing time by 70%
