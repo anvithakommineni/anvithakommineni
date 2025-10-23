@@ -65,22 +65,6 @@ End-to-end real-time analytics solution for GitHub events.
 - 🛠️ **Tech Stack**: Apache Kafka, AWS S3, PySpark, Airflow
 - [View Project](link_to_project)
 
-## 💼 Professional Experience
-
-### Navasal Inc (Jun 2024 - Present)
-Data Engineer
-- Improved data availability by 40%
-- Reduced processing time by 70%
-- Achieved 99.9% uptime for critical services
-- Reduced security incidents by 90%
-
-### Right Data (Oct 2019 - Jun 2022)
-Data Engineer
-- Enhanced data handling efficiency by 20%
-- Reduced manual processing by 25 hours monthly
-- Improved data accuracy by 40%
-
-
 ## 🎓 Education
 - Master of Science in Computer Science, Wichita State University (2024)
 
